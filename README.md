@@ -92,7 +92,7 @@ cd seu-repositorio
 
 ## 👩‍💻 Autora
 
-Projeto desenvolvido por **Letícia M** ✨
+Projeto desenvolvido por **Letícia Martins ✨
 
 ---
 
